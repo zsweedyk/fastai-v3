@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1aWeQ5OUZ6apywLn_3lxMjnjlu-H0DcSq'
-export_file_name = 'julia.pkl'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1s2Ekc9BYPaO3APVpP68qN615BGTCz0Xv'
+export_file_name = 'export.pkl'
 
 classes = ['cats', 'lions', 'toys']
 path = Path(__file__).parent
